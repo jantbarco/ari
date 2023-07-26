@@ -1,6 +1,6 @@
 /***************** CONSTANTES **/
 var total = 0; // Total de productos cargados (Se usa para validar cuando se hayan seleccionado todos los productos)
-var meta = 25;
+var meta = 10;
 const gaccel = 5; // Posiciones en x que se mueven en el estante1
 const gaccel2 = 1; // Posiciones en x que se mueven en el estante2
 const gaccel3 = 8; // Posiciones en x que se mueven en el estante3
